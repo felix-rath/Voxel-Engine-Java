@@ -68,4 +68,6 @@ Funktionen:
 
 ### Projektstatus
 
-Das Projekt befindet sich aktuell in Entwicklung. Neue Systeme werden hinzugefügt und bestehende Funktionen kontinuierlich erweitert und verbessert.
+## Projektstatus
+
+Dieses Projekt wurde aus Interesse an Voxel-Engines, 3D-Rendering und prozeduraler Weltgenerierung entwickelt. Die aktive Weiterentwicklung wurde eingestellt.
